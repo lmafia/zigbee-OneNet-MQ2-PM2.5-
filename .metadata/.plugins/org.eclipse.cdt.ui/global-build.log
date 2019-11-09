@@ -1,0 +1,17 @@
+16:08:56 **** Build of configuration Default for project OneNet-mq ****
+make all 
+make[1]: Entering directory '/cygdrive/c/Users/Administrator/Desktop/‰ª?ÂÅ?ÊØ?ËÆ?1/OneNet-mq/app'
+make[2]: Entering directory '/cygdrive/c/Users/Administrator/Desktop/‰ª?ÂÅ?ÊØ?ËÆ?1/OneNet-mq/app/user'
+DEPEND: xt-xcc -M -Os -g -Wpointer-arith -Wundef -Werror -Wl,-EL -fno-inline-functions -nostdlib -mlongcalls -mtext-section-literals -ffunction-sections -fdata-sections -fno-builtin-printf -DICACHE_FLASH -I include -I ./ -I ../include -I ../include/mqtt -I ../include/modules -I ../include/driver -I ../../include -I ../../include/eagle -I ../../app/include user_main.c
+xt-xcc: error: user_main.c: No such file or directory
+DEPEND: xt-xcc -M -Os -g -Wpointer-arith -Wundef -Werror -Wl,-EL -fno-inline-functions -nostdlib -mlongcalls -mtext-section-literals -ffunction-sections -fdata-sections -fno-builtin-printf -DICACHE_FLASH -I include -I ./ -I ../include -I ../include/mqtt -I ../include/modules -I ../include/driver -I ../../include -I ../../include/eagle -I ../../app/include my_cJSON.c
+xt-xcc: error: my_cJSON.c: No such file or directory
+DEPEND: xt-xcc -M -Os -g -Wpointer-arith -Wundef -Werror -Wl,-EL -fno-inline-functions -nostdlib -mlongcalls -mtext-section-literals -ffunction-sections -fdata-sections -fno-builtin-printf -DICACHE_FLASH -I include -I ./ -I ../include -I ../include/mqtt -I ../include/modules -I ../include/driver -I ../../include -I ../../include/eagle -I ../../app/include func.c
+xt-xcc: error: func.c: No such file or directory
+xt-xcc -Os -g -Wpointer-arith -Wundef -Werror -Wl,-EL -fno-inline-functions -nostdlib -mlongcalls -mtext-section-literals -ffunction-sections -fdata-sections -fno-builtin-printf  -DICACHE_FLASH   -I include -I ./ -I ../include -I ../include/mqtt -I ../include/modules -I ../include/driver -I ../../include -I ../../include/eagle -I ../../app/include  -o .output/eagle/debug/obj/func.o -c func.c
+xt-xcc: error: func.c: No such file or directory
+make[2]: *** [../../Makefile:345: .output/eagle/debug/obj/func.o] Error 1
+make[2]: Leaving directory '/cygdrive/c/Users/Administrator/Desktop/‰ª?ÂÅ?ÊØ?ËÆ?1/OneNet-mq/app/user'
+make[1]: Leaving directory '/cygdrive/c/Users/Administrator/Desktop/‰ª?ÂÅ?ÊØ?ËÆ?1/OneNet-mq/app'
+make[1]: *** [../Makefile:330: .subdirs] Error 2
+make: *** [Makefile:330: .subdirs] Error 2

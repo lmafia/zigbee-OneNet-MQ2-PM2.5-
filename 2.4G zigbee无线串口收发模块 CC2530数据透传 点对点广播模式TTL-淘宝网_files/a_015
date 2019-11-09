@@ -1,0 +1,1 @@
+KISSY.add("tbc/add-to-cart/1.3.4/index",function(a,b){function c(b,c,d){var e="tbc/add-to-cart/";b&&(e+=b+"/"),a.use(e+"index.css"),a.use(e+"plugin/add2cart",function(a,b){b(c,d)})}a.isFunction(a.getLogger)||(a.getLogger=function(b){return{info:function(c){a.log(b+": "+c)}}});a.getLogger("cart");return{init:function(a,b){var d="1.3.4";c(d,a,b)}}},{requires:["ajax"]});

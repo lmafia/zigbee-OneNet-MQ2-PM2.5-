@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER
+-I C:\Users\Administrator\Desktop\task1\¸±°å£¨pm2.5+zigbee·¢ËÍ£©\USER\RTE
+-I D:\keil5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include
+-I D:\keil5\ARM\CMSIS\Include
+-D__UVISION_VERSION="514" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD
+-o .\main.o --omf_browse .\main.crf --depend .\main.d "main.c"

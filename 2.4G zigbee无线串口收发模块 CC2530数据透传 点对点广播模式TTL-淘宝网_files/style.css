@@ -1,0 +1,15 @@
+.zhm_tab{width:400px;border:1px solid #f40;border-collapse:collapse;}
+.zhm_tab tr:nth-of-type(1){font-size:14px;text-align:center;}
+.zhm_tab tr th{padding:10px;20px;text-align:center;}
+.zhm_tab tr td{padding:10px;20px;text-align:center;font-size:14px;}
+.zhm_tab tr td a{ text-decoration:none;}
+
+.zhm_tab_taobao{margin-top:50px;}
+.zhm_tab_taobao tr:nth-of-type(1){background-color:#f40;color:#FFF;}
+.zhm_tab_taobao tr td{border:1px solid #e6602d;color:#e6602d;}
+.zhm_tab_taobao tr td a{color:#e6602d;}
+
+.zhm_tab_tmall {margin-top:50px;}
+.zhm_tab_tmall tr:nth-of-type(1){background-color:#ff0036;color:#FFF;}
+.zhm_tab_tmall tr td{border:1px solid #ff0036;color:#ff0036;}
+.zhm_tab_tmall tr td a{color:#ff0036;}

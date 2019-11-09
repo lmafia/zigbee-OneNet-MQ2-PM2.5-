@@ -1,0 +1,11 @@
+..\output\adc.o: adc.c
+..\output\adc.o: ..\CMSIS\stm32f10x.h
+..\output\adc.o: ..\CMSIS\core_cm3.h
+..\output\adc.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\adc.o: ..\CMSIS\system_stm32f10x.h
+..\output\adc.o: ..\USER\stm32f10x_conf.h
+..\output\adc.o: ..\FWLIB\inc\stm32f10x_gpio.h
+..\output\adc.o: ..\CMSIS\stm32f10x.h
+..\output\adc.o: ..\FWLIB\inc\stm32f10x_rcc.h
+..\output\adc.o: ..\FWLIB\inc\stm32f10x_adc.h
+..\output\adc.o: adc.h

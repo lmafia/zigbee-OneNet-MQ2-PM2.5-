@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 9 resources" deleteContents="false" description="Delete 9 resources" element1="/OneNet-mq/bin/blank.bin" element2="/OneNet-mq/bin/boot_v1.2.bin" element3="/OneNet-mq/bin/boot_v1.6.bin" element4="/OneNet-mq/bin/boot_v1.7.bin" element5="/OneNet-mq/bin/eagle.dump" element6="/OneNet-mq/bin/eagle.flash.bin" element7="/OneNet-mq/bin/eagle.irom0text.bin" element8="/OneNet-mq/bin/esp_init_data_default_v05.bin" element9="/OneNet-mq/bin/esp_init_data_default_v08.bin" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="9" stamp="1573200527267"/>
+</session>

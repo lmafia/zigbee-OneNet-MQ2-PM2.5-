@@ -1,0 +1,1 @@
+var groupMember='{"groups":{"group":[{"groupName":"客服中心","groupId":5038638},{"groupName":"深圳客服小婵","groupId":3169509},{"groupName":"深圳客服小叶","groupId":3051261},{"groupName":"大客户客服","groupId":2828218},{"groupName":"深圳客服小五","groupId":2827848},{"groupName":"深圳客服小双","groupId":83068}]}}';

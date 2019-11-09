@@ -1,0 +1,9 @@
+..\output\system_stm32f10x_1.o: RTE\Device\STM32F103C8\system_stm32f10x.c
+..\output\system_stm32f10x_1.o: ..\CMSIS\stm32f10x.h
+..\output\system_stm32f10x_1.o: ..\CMSIS\core_cm3.h
+..\output\system_stm32f10x_1.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\system_stm32f10x_1.o: ..\CMSIS\system_stm32f10x.h
+..\output\system_stm32f10x_1.o: ..\USER\stm32f10x_conf.h
+..\output\system_stm32f10x_1.o: ..\FWLIB\inc\stm32f10x_gpio.h
+..\output\system_stm32f10x_1.o: ..\CMSIS\stm32f10x.h
+..\output\system_stm32f10x_1.o: ..\FWLIB\inc\stm32f10x_rcc.h

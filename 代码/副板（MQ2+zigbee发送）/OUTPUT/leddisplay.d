@@ -1,0 +1,10 @@
+..\output\leddisplay.o: LEDDisplay.c
+..\output\leddisplay.o: ..\CMSIS\stm32f10x.h
+..\output\leddisplay.o: ..\CMSIS\core_cm3.h
+..\output\leddisplay.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\leddisplay.o: ..\CMSIS\system_stm32f10x.h
+..\output\leddisplay.o: ..\USER\stm32f10x_conf.h
+..\output\leddisplay.o: ..\FWLIB\inc\stm32f10x_gpio.h
+..\output\leddisplay.o: ..\CMSIS\stm32f10x.h
+..\output\leddisplay.o: ..\FWLIB\inc\stm32f10x_rcc.h
+..\output\leddisplay.o: LEDDisplay.h
